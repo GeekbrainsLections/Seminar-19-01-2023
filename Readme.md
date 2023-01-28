@@ -64,3 +64,5 @@
 pull request --> new pull request --> great pull request --> комментарии --> great pull request
 
 ## Pull and Push
+git pull origin master вытягивание-скачивание с ГХ на ПК
+git push origin master отдача изменений в ГХ 
